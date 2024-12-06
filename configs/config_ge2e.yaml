@@ -1,0 +1,19 @@
+data:
+  mlaad_root_path: data/MLAADv5
+  protocols_root_path: data/MLAADv5_for_sourcetracing
+  sampling_rate: 16000
+  sample_length_s: 4
+  num_workers: 4
+
+training:
+  num_epochs: 4
+  lr: 0.0001
+  save_path: models/baseline_model
+  log_interval: 10
+  seed: 42
+  n_classes_in_batch: 10
+  n_utter_per_class: 4
+
+model:
+  model_name: wav2vec2
+  checkpoint_path: ""
