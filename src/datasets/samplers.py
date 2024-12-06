@@ -1,4 +1,16 @@
-# Code adapted from coqui.ai - https://github.com/coqui-ai/TTS/blob/dev/TTS/utils/samplers.py
+"""
+DISCLAIMER:
+This code is provided "as-is" without any warranty of any kind, either expressed or implied,
+including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+The author assumes no liability for any damages or consequences resulting from the use of this code.
+Use it at your own risk.
+
+## Authors: Piotr KAWA
+## December 2024
+## Code adapted from coqui.ai - https://github.com/coqui-ai/TTS/blob/dev/TTS/utils/samplers.py
+"""
+
+
 import random
 from collections import defaultdict
 

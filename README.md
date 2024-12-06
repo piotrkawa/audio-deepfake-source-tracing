@@ -1,6 +1,7 @@
-# Source Tracing Special Session Baselines
+# Baselines fdor Interspeech 2025 Special Session on Source Tracing 
 
-The following repository contains baselines to start your work with the task of DeepFake Source Tracing as the part of [Source tracing: The origins of synthetic or manipulated speech](https://www.interspeech2025.org/special-sessions) INTERSPEECH 2025 Special Session.
+The following repository contains baselines to start your work with the task of DeepFake Source Tracing as 
+part of [Source tracing: The origins of synthetic or manipulated speech](https://www.interspeech2025.org/special-sessions) INTERSPEECH 2025 Special Session.
 
 ## Attribution
 
@@ -120,7 +121,7 @@ This repository is licensed under the [CC BY-NC 4.0 License](https://creativecom
 - As per copyright law, such code is "All Rights Reserved" and is not covered by the CC BY-NC license. Users should not reuse or redistribute it without the original author's explicit permission.
 
 
-## Acknowledgment
+## References
 The following repository is built using the following open-source repositories:
 * [coqui.ai TTS](https://github.com/coqui-ai/TTS),
 * [REFD](https://github.com/xieyuankun/REFD).

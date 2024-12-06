@@ -22,7 +22,7 @@ from sklearn.metrics import classification_report, roc_curve
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 
-from models.w2v2_aasist import W2VAASIST
+from src.models.w2v2_aasist import W2VAASIST
 from src.datasets.dataset import MLAADFDDataset
 from src.models.NSD import NSDOODDetector
 
