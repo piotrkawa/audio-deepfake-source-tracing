@@ -1,12 +1,11 @@
-# Baselines fdor Interspeech 2025 Special Session on Source Tracing 
+# Baselines for Interspeech 2025 Special Session on Source Tracing 
 
 The following repository contains baselines to start your work with the task of DeepFake Source Tracing as 
 part of [Source tracing: The origins of synthetic or manipulated speech](https://www.interspeech2025.org/special-sessions) INTERSPEECH 2025 Special Session.
 
 ## Attribution
 
-Special thanks to [Resemble.ai](https://www.resemble.ai) and [AI4Trust project](https://ai4trust.eu/) for their support and affiliation.
-
+Special thanks to [Resemble AI](https://www.resemble.ai) and [AI4Trust project](https://ai4trust.eu/) for their support and affiliation.
 
 ## Contributors
  - [Piotr Kawa](https://github.com/piotrkawa),
@@ -53,7 +52,7 @@ authors the option to improve upon it.
 
 
 <details>
-  <summary>More info here</summary>
+  <summary>More details here</summary>
 
 
 ### Download data augmentation datasets
