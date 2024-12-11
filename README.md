@@ -41,7 +41,7 @@ Coming soon.
 ## GE2E + Wav2Vec2.0 Baseline
 
 To train the feature extractor based on Wav2Vec2.0-based encoder using [GE2E-Loss](https://arxiv.org/pdf/1710.10467) run:
-```python
+```bash
 python train_ge2e.py --config configs/config_ge2e.yaml
 ```
 
@@ -127,6 +127,35 @@ This repository is licensed under the [CC BY-NC 4.0 License](https://creativecom
 
 ## References
 The following repository is built using the following open-source repositories:
-* [coqui.ai TTS](https://github.com/coqui-ai/TTS),
-* [REFD](https://github.com/xieyuankun/REFD).
 
+
+### REFD
+* [GitHub repository](https://github.com/xieyuankun/REFD),
+```
+@inproceedings{xie24_interspeech,
+  title     = {Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion Strategy},
+  author    = {Yuankun Xie and Ruibo Fu and Zhengqi Wen and Zhiyong Wang and Xiaopeng Wang and Haonnan Cheng and Long Ye and Jianhua Tao},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {4833--4837},
+  doi       = {10.21437/Interspeech.2024-254},
+  issn      = {2958-1796},
+}
+```
+
+
+### Coqui.ai TTS
+* [GitHub repository](https://github.com/coqui-ai/TTS),
+
+```
+@software{Eren_Coqui_TTS_2021,
+author = {Eren, Gölge and {The Coqui TTS Team}},
+doi = {10.5281/zenodo.6334862},
+license = {MPL-2.0},
+month = jan,
+title = {{Coqui TTS}},
+url = {https://github.com/coqui-ai/TTS},
+version = {1.4},
+year = {2021}
+}
+```
