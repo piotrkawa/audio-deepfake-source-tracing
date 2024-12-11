@@ -149,13 +149,13 @@ The following repository is built using the following open-source repositories:
 
 ```
 @software{Eren_Coqui_TTS_2021,
-author = {Eren, Gölge and {The Coqui TTS Team}},
-doi = {10.5281/zenodo.6334862},
-license = {MPL-2.0},
-month = jan,
-title = {{Coqui TTS}},
-url = {https://github.com/coqui-ai/TTS},
-version = {1.4},
-year = {2021}
+  author = {Eren, Gölge and {The Coqui TTS Team}},
+  doi = {10.5281/zenodo.6334862},
+  license = {MPL-2.0},
+  month = jan,
+  title = {{Coqui TTS}},
+  url = {https://github.com/coqui-ai/TTS},
+  version = {1.4},
+  year = {2021}
 }
 ```
