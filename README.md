@@ -33,11 +33,6 @@ pip install -r requirements.txt
 ```
 
 
-### Evaluation metrics
-
-Coming soon.
-
-
 ## GE2E + Wav2Vec2.0 Baseline
 
 To train the feature extractor based on Wav2Vec2.0-based encoder using [GE2E-Loss](https://arxiv.org/pdf/1710.10467) run:

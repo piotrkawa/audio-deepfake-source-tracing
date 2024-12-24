@@ -136,5 +136,5 @@ if __name__ == "__main__":
     save_protocols_path = "data/MLAADv5_for_sourcetracing/mlaadv5_for_sourcetracing.zip"
     os.makedirs(os.path.dirname(save_protocols_path), exist_ok=True)
     if not os.path.exists(save_protocols_path):
-        url_protocols = "https://deepfake-total.com/data/mlaadv5_for_sourcetracing.zip"
+        url_protocols = "https://deepfake-total.com/data/mlaad4sourcetracing.zip"
         download_file(requests.Session(), url_protocols, save_protocols_path)
