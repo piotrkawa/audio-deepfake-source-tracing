@@ -8,6 +8,10 @@ Use it at your own risk.
 ### Adapted from: https://github.com/xieyuankun/REFD/blob/main/code/ADD2023t3_FD/ood_detectors/NSD.py
 ### and: https://github.com/xieyuankun/REFD/blob/main/code/ADD2023t3_FD/ood_detectors/interface.py
 
+
+## Author: Adriana STAN
+## December 2024
+## Parts of this code are taken from https://github.com/xieyuankun/REFD/tree/main/code/ADD2023t3_FD
 """
 
 from abc import ABC, abstractmethod

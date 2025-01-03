@@ -4,6 +4,9 @@ This code is provided "as-is" without any warranty of any kind, either expressed
 including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
 The author assumes no liability for any damages or consequences resulting from the use of this code.
 Use it at your own risk.
+
+## Author: Piotr KAWA, Nicolas MUELLER
+## December 2024
 """
 
 import torch

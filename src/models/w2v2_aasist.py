@@ -6,6 +6,10 @@ The author assumes no liability for any damages or consequences resulting from t
 Use it at your own risk.
 
 ### Source: https://github.com/xieyuankun/REFD/blob/main/code/ADD2023t3_RE/model.py
+
+## Author: Adriana STAN
+## December 2024
+## Parts of this code are taken from https://github.com/xieyuankun/REFD/tree/main/code/ADD2023t3_FD
 """
 
 from typing import Union
